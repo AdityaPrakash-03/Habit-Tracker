@@ -44,7 +44,10 @@ To run this app on your local machine, follow these steps:
 
 ## Screenshots
 
-![Home Page](https://github.com/user-attachments/assets/fbfd32f7-aaa2-4829-a18b-245b7577c681)            ![Menu (theme toggle button)](https://github.com/user-attachments/assets/f883efda-fe51-4e3c-9162-fc7aef7dd768)
+![Home Page](https://github.com/user-attachments/assets/fbfd32f7-aaa2-4829-a18b-245b7577c681)               
+
+
+![Menu (theme toggle button)](https://github.com/user-attachments/assets/f883efda-fe51-4e3c-9162-fc7aef7dd768)
 
 
 Happy coding! 🎉
